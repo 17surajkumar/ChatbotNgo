@@ -1,12 +1,30 @@
-# React + Vite
+🤖 ChatBot-Ngo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personalized NGO Chatbot built using React.js, HTML, CSS, and JavaScript, powered by the Gemini Free API.
+This chatbot is designed to answer queries related to NGOs in India, helping users explore NGO details, events, donation campaigns, and volunteering opportunities.
 
-Currently, two official plugins are available:
+🌐 [ChatBot-Ngo Live Demo](https://ngochatbot.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 Features
 
-## Expanding the ESLint configuration
+🏢 NGO Information – Get details like mission, vision, activities, and contact info.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📅 Events & Campaigns – Stay updated with ongoing and upcoming NGO events.
+
+💰 Donation Support – Learn how to donate and support NGO campaigns.
+
+🙋 Volunteer Opportunities – Find ways to participate in NGO initiatives.
+
+🔍 Category-based Search – NGOs categorized into Women Empowerment, Child Rights, Healthcare, Environment, etc.
+
+💬 Interactive Chatbot – Natural conversation experience powered by Gemini API.
+
+📱 Responsive Design – Works smoothly on both desktop and mobile.
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React.js
+
+API: Google Gemini (Free API)
+
+Deployment: Netlify
